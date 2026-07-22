@@ -51,7 +51,7 @@ I don't build tutorial clones and call it a portfolio. I build things that stay 
 
 ---
 
-### 🚀 things I've shipped
+###  things I've shipped
 
 <table>
 <tr>

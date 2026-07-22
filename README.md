@@ -1,215 +1,110 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-
 <h3 align="center">
-🚀 Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast | DSA Learner
+Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast | DSA Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Open+to+SDE+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Developer;Spring+Boot+Enthusiast;Data+Structures+%26+Algorithms;Open+to+SDE+Opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aman9621&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 BCA Graduate
-- 💻 Passionate Full Stack Developer transitioning into Java Backend Development
+- 🎓 BCA Graduate (2025)
+- 💻 Full Stack Developer transitioning into Java Backend Development
 - 🌱 Currently learning **Core Java, Spring Boot, SQL, and DSA**
 - 🚀 Interested in Backend Development, Scalable Systems & Software Engineering
-- 🎯 Goal: Become a Software Development Engineer (SDE)
-- ⚡ Love solving real-world problems through code
+- 🎯 Goal: Land my first SDE role and grow into backend systems engineering
+- ⚡ I like turning real problems into working, deployed products — not just tutorial projects
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/aman9601">
+<a href="https://www.linkedin.com/in/aman9601" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://leetcode.com/u/Aman9934/">
+<a href="https://leetcode.com/u/Aman9934/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-<a href="https://drive.google.com/file/d/1RTTN7FbcsFANWmV2VEemt5hpf_BbDSYQ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1RTTN7FbcsFANWmV2VEemt5hpf_BbDSYQ/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
-
 <a href="mailto:kumaraman29276@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Languages
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,js,html,css"/></p>
 
-<p>
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring"/></p>
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/></p>
 
-</p>
+**Database**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
 
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-
-</p>
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/></p>
 
 ---
 
-# 🌱 Currently Learning
+### 🌱 Currently Learning
 
-- ☕ Core Java
-- 🌱 Spring Boot
-- 🧠 Data Structures & Algorithms
-- 🗄 SQL
-- 🏗 System Design
+☕ Core Java &nbsp;|&nbsp; 🌱 Spring Boot &nbsp;|&nbsp; 🧠 Data Structures & Algorithms &nbsp;|&nbsp; 🗄 SQL &nbsp;|&nbsp; 🏗 System Design
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
-## 🏨 Airbnb Clone - Full Stack Hotel Booking Platform
+**🏨 Airbnb Clone — Full Stack Hotel Booking Platform**
+Node.js · Express.js · MongoDB · EJS · Bootstrap · Passport.js · Cloudinary
+Auth & authorization, hotel listings, reviews & ratings, image upload, full CRUD, responsive UI.
+🔗 Live: https://airloopings.onrender.com
+🔗 Code: https://github.com/aman9621/Major-Project
 
-**Tech Stack**
-
-- Node.js
-- Express.js
-- MongoDB
-- EJS
-- Bootstrap
-- Passport.js
-- Cloudinary
-
-### Features
-
-- Authentication & Authorization
-- Hotel Listings
-- Reviews & Ratings
-- Image Upload
-- Responsive UI
-- CRUD Operations
-
-### Repository
-
-🔗 https://github.com/aman9621/Major-Project
+**🎥 EchoMeet — Real-time Video Meeting App**
+React · Node.js · Express.js · Socket.IO · WebRTC
+Real-time video calling, room creation & join flow, live chat, responsive UI.
+🔗 Live: https://echomeetfrontendapps.onrender.com
+🔗 Code: https://github.com/aman9621/Echomeet-video-call
 
 ---
 
-## 🎥 EchoMeet - Real-time Video Meeting App
-
-**Tech Stack**
-
-- React
-- Node.js
-- Express.js
-- Socket.IO
-- WebRTC
-
-### Features
-
-- Real-time Video Calling
-- Room Creation
-- Join Meeting
-- Live Chat
-- Responsive UI
-
-### Repository
-
-🔗 https://github.com/aman9621/Echomeet-video-call
-
----
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman9621&show_icons=true&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman9621&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9621&layout=compact&theme=tokyonight"/>
-
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aman9621&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=aman9621&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aman9621&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=aman9621&theme=tokyonight&row=1&column=6&margin-w=8" alt="Trophies"/>
 </p>
-
----
-
-# 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aman9621&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman9621&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman9621&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 💬 Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>

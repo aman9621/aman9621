@@ -1,110 +1,116 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">
-Java Backend Developer | Full Stack Developer | Spring Boot  | DSA
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Developer;Spring+Boot;Data+Structures+%26+Algorithms;Open+to+SDE+Opportunities" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:0A66C2&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Builder%20of%20Real%20Things&descAlignY=58&descSize=18" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman9621&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
----
+<div align="center">
 
-### 👨‍💻 About Me
+```
+> whoami
+Aman Kumar — from a small town in Bihar, building backend systems in Bangalore.
+No inherited network. No CS degree pedigree. Just code that ships.
+```
 
-- 🎓 BCA Graduate (2025)
-- 💻 Full Stack Developer transitioning into Java Backend Development
-- 🌱 Currently learning **Core Java, Spring Boot, SQL, and DSA**
-- 🚀 Interested in Backend Development, Scalable Systems & Software Engineering
-- 🎯 Goal: Land my first SDE role and grow into backend systems engineering
-- ⚡ I like turning real problems into working, deployed products — not just tutorial projects
+</div>
 
----
+<br/>
 
-### 🌐 Connect With Me
+### the short version
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aman9601" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Aman9934/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://drive.google.com/file/d/1RTTN7FbcsFANWmV2VEemt5hpf_BbDSYQ/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-<a href="mailto:kumaraman29276@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+I don't build tutorial clones and call it a portfolio. I build things that stay up, handle real load, and solve a problem I actually thought about — a mesh payment system that works with no internet, a packet inspector that watches traffic in real time. Right now I'm deep in Java and Spring Boot, sharpening the backend fundamentals that turn "I can build an app" into "I can build a system."
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=writing+clean+Java%2C+one+commit+at+a+time;learning+Spring+Boot+the+hard+way;shipping+projects+that+don%27t+look+like+everyone+else%27s;open+to+SDE+roles" />
+</div>
+
+<br/>
 
 ---
 
-### 🛠 Tech Stack
+### 🧭 currently
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=java,js,html,css"/></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring"/></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/></p>
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
-
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/></p>
+| | |
+|---|---|
+| 🔭 | Building Java + Spring Boot depth on top of a MERN foundation |
+| 🌱 | Sharpening DSA, one problem at a time — no shortcuts |
+| 🎯 | Looking for my first SDE role where I can actually own something |
+| 💬 | Ask me about real-time systems (WebRTC, Socket.IO) or offline-first architecture |
 
 ---
 
-### 🌱 Currently Learning
+### 🛠 what I actually build with
 
-☕ Core Java &nbsp;|&nbsp; 🌱 Spring Boot &nbsp;|&nbsp; 🧠 Data Structures & Algorithms &nbsp;|&nbsp; 🗄 SQL &nbsp;|&nbsp; 🏗 System Design
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,mongodb,mysql,postgres,git,postman&theme=dark" />
+</div>
 
----
-
-### 🚀 Featured Projects
-
-**🏨 Airbnb Clone — Full Stack Hotel Booking Platform**
-Node.js · Express.js · MongoDB · EJS · Bootstrap · Passport.js · Cloudinary
-Auth & authorization, hotel listings, reviews & ratings, image upload, full CRUD, responsive UI.
-🔗 Live: https://airloopings.onrender.com
-🔗 Code: https://github.com/aman9621/Major-Project
-
-**🎥 EchoMeet — Real-time Video Meeting App**
-React · Node.js · Express.js · Socket.IO · WebRTC
-Real-time video calling, room creation & join flow, live chat, responsive UI.
-🔗 Live: https://echomeetfrontendapps.onrender.com
-🔗 Code: https://github.com/aman9621/Echomeet-video-call
+<br/>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 things I've shipped
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman9621&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9621&layout=compact&theme=tokyonight"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aman9621&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+**🎥 EchoMeet**
+*Real-time video meetings, built from the socket layer up*
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aman9621&theme=tokyonight&row=1&column=6&margin-w=8" alt="Trophies"/>
-</p>
+React · Node.js · Socket.IO · WebRTC
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman9621&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
+Peer-to-peer video, live rooms, live chat — the kind of real-time infra most fresher portfolios skip because it's genuinely hard to get right.
+
+[Live →](https://echomeetfrontendapps.onrender.com) · [Code →](https://github.com/aman9621/Echomeet-video-call)
+
+</td>
+<td width="50%" valign="top">
+
+**🏨 Airbnb-style Booking Platform**
+*Full-stack marketplace with auth, media, and reviews*
+
+Node.js · Express · MongoDB · Passport.js · Cloudinary
+
+End-to-end CRUD, secure auth, image pipeline via Cloudinary, deployed and actually usable — not left running on localhost.
+
+[Live →](https://airloopings.onrender.com) · [Code →](https://github.com/aman9621/Major-Project)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+### 📊 the numbers
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aman9621&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9621&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=aman9621&theme=highcontrast&hide_border=true&background=0D1117" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```
+"First, solve the problem. Then, write the code." — John Johnson
+```
+
+**[LinkedIn](https://www.linkedin.com/in/aman9601) · [LeetCode](https://leetcode.com/u/Aman9934/) · [Resume](https://drive.google.com/file/d/1RTTN7FbcsFANWmV2VEemt5hpf_BbDSYQ/view?usp=sharing) · [Mail](mailto:kumaraman29276@gmail.com)**
+
+<img src="https://komarev.com/ghpvc/?username=aman9621&label=views&color=0A0A0A&style=flat" height="20"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A0A0A&height=100&section=footer" />

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">
-Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast | DSA Learner
+Java Backend Developer | Full Stack Developer | Spring Boot  | DSA
 </h3>
 
 <p align="center">

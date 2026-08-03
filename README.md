@@ -88,14 +88,19 @@ End-to-end CRUD, secure auth, image pipeline via Cloudinary, deployed and actual
 
 ### 📊 the numbers
 
- <div align="center">
+<!-- <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=aman9621&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman9621&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</div> 
+</div>  -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://streak-stats.demolab.com?user=aman9621&theme=highcontrast&hide_border=true&background=0D1117" />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aman9621&theme=highcontrast&hide_border=true&background=0D1117" />
+</p>
+
 
 <br/>
 
